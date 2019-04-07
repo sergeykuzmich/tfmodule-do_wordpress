@@ -1,1 +1,2 @@
-# DigitalOcean One-Click WordPress Application - Terraform Module
+# DigitalOcean One-Click WordPress Application
+## Terraform Module
